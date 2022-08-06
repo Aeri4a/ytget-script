@@ -1,1 +1,1 @@
-# A Python script for downloading video and music
+# Script for downloading video and music
