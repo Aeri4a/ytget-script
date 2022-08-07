@@ -48,3 +48,4 @@ Download `script_windows.exe` to use. All compilled.
 ### Versions
 - 1.0 - First project, just only with videos
 - 1.1 - Small adjustments and possibility to download music in mp3
+- 1.2 - Cosmetics

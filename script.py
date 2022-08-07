@@ -2,14 +2,17 @@ from pytube import YouTube
 import os, time
 
 print("What would you like to do?")
-print("--Videos------------------------------")
+print("\n")
+print("--Video----------------------------")
 print("1) Download video from link")
 print("2) Download videos from file")
 print("\n")
-print("--Videos------------------------------")
+print("--Music----------------------------")
 print("3) Download music from link")
 print("4) Download music from file")
+print("\n")
 print("5) Exit")
+print("--------")
 
 
 active = True
