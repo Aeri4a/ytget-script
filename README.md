@@ -11,6 +11,17 @@ Functions
 - download single music from link (**mp3 format**)
 - download multiple music using file: `list_music.txt`
 
+Files with links
+-------------
+Make sure you paste a link in one line, and to add another 
+go to the new line and again paste new.  
+It should look like this:
+```notepad
+https://youtu.be/xxx1
+https://youtu.be/xxx2
+https://youtu.be/xxx3
+```
+
 ### Python modules
 For the app to run correctly:
 
